@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\DELL\source\repos\MyString_\</FILEPATH>
+      <FILENAME>String.h</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может "throw". Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>String::{ctor}</FUNCTION>
+    <DECORATED>??0String@@QAE@$$QAV0@@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
