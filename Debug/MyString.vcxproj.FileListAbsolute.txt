@@ -1,4 +1,2 @@
 C:\Users\DELL\source\repos\MyString\Debug\MyString.exe
 C:\Users\DELL\source\repos\MyString_\Debug\MyString.exe
-C:\Users\DELL\source\repos\MyString_\Debug\MyString.exe.lastcodeanalysissucceeded
-C:\Users\DELL\source\repos\MyString_\Debug\NativeCodeAnalysis.read.1.tlog

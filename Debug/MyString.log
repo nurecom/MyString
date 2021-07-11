@@ -1,6 +1,4 @@
-﻿  main.cpp
-  String.cpp
-  Выполнение Code Analysis для C/C++...
+﻿  String.cpp
+  main.cpp
   Создание кода...
   MyString.vcxproj -> C:\Users\DELL\source\repos\MyString_\Debug\MyString.exe
-C:\Users\DELL\source\repos\MyString_\String.h(34): warning C26439: Эта функция не может "throw". Объявите ее как "noexcept" (f.6).
